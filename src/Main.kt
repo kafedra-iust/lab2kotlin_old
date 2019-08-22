@@ -15,7 +15,7 @@ fun main() {
  */
 fun f(x:Double) = sin(x) + cos(x)
 
-fun var1calcR(a: Double, b: Double, x: Double) : Double = a + b + x
+fun var1calcR(a: Double, b: Double, x: Double) : Double = TODO()
 
 fun var1calcS(a: Double, b: Double, x: Double) : Double = TODO()
 
