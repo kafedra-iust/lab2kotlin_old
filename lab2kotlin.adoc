@@ -256,7 +256,7 @@ class Tests {
 
 [source,kotlin]
 ----
-fun main(args: Array<String>) {
+fun main() {
     println("sqr(0) = ${sqr(0)}")
     println("sqr(4) = ${sqr(4)}")
 }
