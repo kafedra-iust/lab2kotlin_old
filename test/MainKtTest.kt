@@ -102,7 +102,7 @@ class MainKtTest {
     @Test
     @Tag("var7")
     fun testVar7calcZ() {
-        assertEquals(1.016430, var7calcZ(1.1, 0.004, 0.2), EPS)
+        assertEquals(1.036327, var7calcZ(1.1, 0.004, 0.2), EPS)
     }
 
     @Test
